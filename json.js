@@ -6,7 +6,7 @@
 // 오브젝트를 어떻게 json으로?
 // json을 어떻게 오브젝트로?
 
-// 1. object -> json
+// 1. object -> json(string)
 // stringfy(obj)
 let json = JSON.stringify(true);
 console.log(json);
